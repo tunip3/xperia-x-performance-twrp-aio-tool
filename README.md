@@ -1,7 +1,8 @@
 # xperia-x-performance-twrp-aio-tool
 an aio twrp installer that includes bootloader unlocking
 
-licensed under the 
+licensed under the wtfpl license
+
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
