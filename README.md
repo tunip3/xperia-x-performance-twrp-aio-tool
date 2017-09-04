@@ -1,5 +1,6 @@
 # xperia-x-performance-twrp-aio-tool
 an aio twrp installer that includes bootloader unlocking
+you need your bootloader unlock code which you get here
 
 licensed under the wtfpl license
 
