@@ -20,6 +20,7 @@ echo.
 echo ===============================================================
 echo.
 echo you should have enabled usb debugging on your device
+echo and oem unlock
 echo.
 echo you must be on your homescreen on your device while doing this
 echo.
